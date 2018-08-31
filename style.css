@@ -43,7 +43,7 @@ p {
 	font-size: larger;
 }
 
-.red, .green, .blue, default {
+.red, .green, .blue, .default {
 	color: white;
 	cursor: pointer;
 }
